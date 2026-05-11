@@ -1,0 +1,18 @@
+hello
+help
+ai hello
+ai hello
+clear
+ai hello
+clear
+ai hello
+exit
+ai hello
+exit
+ai hello
+exit
+help
+ai hello how are you
+exit
+ai hello
+ai who are you
